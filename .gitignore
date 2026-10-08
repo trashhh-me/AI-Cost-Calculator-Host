@@ -1,0 +1,7 @@
+
+
+# Daily spend ledger written by the server
+data/
+
+node_modules/
+.DS_Store
